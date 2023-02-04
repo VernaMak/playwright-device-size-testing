@@ -1,6 +1,18 @@
+# Test in different browsers see it scan through
+```
+
+npm run test:e2e
+```
+
+npx playwright test home.spec.ts --headed
+```
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Gett
+ing Started
 
 First, run the development server:
 
